@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: c65f72427f0dc3a43a54abcda510be8d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BDx
+    100002: Bocca
+    100004: Body
+    100006: Bottoni
+    100008: Braccio_Dx
+    100010: Braccio_Sx
+    100012: BSx
+    100014: Capelli
+    100016: Cilindro2
+    100018: Colletto
+    100020: Corpo
+    100022: CorpoCilindro1
+    100024: Faccia
+    100026: GambaDx
+    100028: GambaSx2
+    100030: Naso
+    100032: //RootNode
+    100034: NutCrackerHead
+    100036: OcchioDx1
+    100038: OcchioSx1
+    100040: Pennacchio
+    100042: SDx
+    100044: SSx
+    400000: BDx
+    400002: Bocca
+    400004: Body
+    400006: Bottoni
+    400008: Braccio_Dx
+    400010: Braccio_Sx
+    400012: BSx
+    400014: Capelli
+    400016: Cilindro2
+    400018: Colletto
+    400020: Corpo
+    400022: CorpoCilindro1
+    400024: Faccia
+    400026: GambaDx
+    400028: GambaSx2
+    400030: Naso
+    400032: //RootNode
+    400034: NutCrackerHead
+    400036: OcchioDx1
+    400038: OcchioSx1
+    400040: Pennacchio
+    400042: SDx
+    400044: SSx
+    2100000: Red
+    2100002: Face
+    2100004: Yellow
+    2100006: Black
+    2100008: Brown
+    2100010: Gray1
+    2100012: lambert1
+    2100014: White
+    2100016: LightBrown
+    2300000: BDx
+    2300002: Bocca
+    2300004: Bottoni
+    2300006: Braccio_Dx
+    2300008: Braccio_Sx
+    2300010: BSx
+    2300012: Capelli
+    2300014: Cilindro2
+    2300016: Colletto
+    2300018: Corpo
+    2300020: CorpoCilindro1
+    2300022: Faccia
+    2300024: GambaDx
+    2300026: GambaSx2
+    2300028: Naso
+    2300030: OcchioDx1
+    2300032: OcchioSx1
+    2300034: Pennacchio
+    2300036: SDx
+    2300038: SSx
+    3300000: BDx
+    3300002: Bocca
+    3300004: Bottoni
+    3300006: Braccio_Dx
+    3300008: Braccio_Sx
+    3300010: BSx
+    3300012: Capelli
+    3300014: Cilindro2
+    3300016: Colletto
+    3300018: Corpo
+    3300020: CorpoCilindro1
+    3300022: Faccia
+    3300024: GambaDx
+    3300026: GambaSx2
+    3300028: Naso
+    3300030: OcchioDx1
+    3300032: OcchioSx1
+    3300034: Pennacchio
+    3300036: SDx
+    3300038: SSx
+    4300000: Corpo
+    4300002: Braccio_Sx
+    4300004: Braccio_Dx
+    4300006: CorpoCilindro1
+    4300008: GambaDx
+    4300010: GambaSx2
+    4300012: Bottoni
+    4300014: BDx
+    4300016: BSx
+    4300018: Colletto
+    4300020: Faccia
+    4300022: Capelli
+    4300024: Pennacchio
+    4300026: Cilindro2
+    4300028: Naso
+    4300030: OcchioSx1
+    4300032: OcchioDx1
+    4300034: Bocca
+    4300036: SDx
+    4300038: SSx
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
